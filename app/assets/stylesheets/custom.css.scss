@@ -70,11 +70,6 @@ $navbar-default-bg: #00009a;
     float: left;
     margin-left: 15px;
 }
-.listing {
-    padding-left: 0;
-    list-style: none;
-}
-
 
 .article-meta-details {
     border-top: 1px solid #eaeaea;
@@ -99,4 +94,9 @@ $navbar-default-bg: #00009a;
 
 .description {
     margin-top: 0;
+}
+
+.listing {
+    padding-left: 0;
+    list-style: none;
 }
