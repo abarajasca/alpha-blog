@@ -45,6 +45,9 @@ group :development, :test do
   gem 'sqlite3'
 
   gem 'byebug', platform: :mri
+  
+  gem 'rails-controller-testing'
+  
 end
 
 group :development do
